@@ -9,7 +9,7 @@ Raketomania App is the most comprehensive app I’ve ever written. In the app we
 <img src="https://media.discordapp.net/attachments/917795732734509076/917803141087502426/fb_post.jpg?width=676&height=676" alt="drawing" />
 </div>
 
-## <a href="https://play.google.com/store/apps/details?id=com.danielsledz.rakietomaniaapp">Here you can download this app for Android</a>
+## <a href="https://play.google.com/store/apps/details?id=com.danielsledz.rakietomaniaapp">Download this app for Android</a>
 
 ## Technologies
 Project is created with:
