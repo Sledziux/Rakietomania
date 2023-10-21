@@ -2,8 +2,9 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 
+(2022)
 
-## General info
+## General info 
 Raketomania App is the most comprehensive app I’ve ever written. In the app we can read many interesting articles about space technology, we are notified 10 minutes before the launch of the rocket, and in addition there are many useful sections for a person who is fascinated with space!
 <div >
 <img src="https://media.discordapp.net/attachments/917795732734509076/917803141087502426/fb_post.jpg?width=676&height=676" alt="drawing" />
